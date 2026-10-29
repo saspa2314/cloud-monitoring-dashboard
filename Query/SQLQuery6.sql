@@ -1,0 +1,1 @@
+SELECT * FROM kubernetes_metrics;
